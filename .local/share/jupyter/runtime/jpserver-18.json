@@ -1,0 +1,13 @@
+{
+  "base_url": "/user/biancablima-python_test-tmqfqhlr/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 18,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "SmyoYeChTS6T0hH8GAgNUw",
+  "url": "http://jupyter-biancablima-2dpython-5ftest-2dtmqfqhlr:8888/user/biancablima-python_test-tmqfqhlr/",
+  "version": "1.23.6"
+}

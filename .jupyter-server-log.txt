@@ -1,0 +1,62 @@
+Launching jupyter-lab
+[I 2023-05-04 17:52:44.341 ServerApp] jupyter_offlinenotebook | extension was successfully linked.
+[I 2023-05-04 17:52:44.341 ServerApp] jupyter_resource_usage | extension was successfully linked.
+[W 2023-05-04 17:52:44.344 LabApp] 'base_url' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-05-04 17:52:44.344 LabApp] 'token' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-05-04 17:52:44.344 LabApp] 'trust_xheaders' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-05-04 17:52:44.344 LabApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-05-04 17:52:44.344 LabApp] 'allow_origin_pat' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-05-04 17:52:44.348 ServerApp] jupyterlab | extension was successfully linked.
+[W 2023-05-04 17:52:44.351 NotebookApp] 'extra_template_paths' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2023-05-04 17:52:44.351 NotebookApp] 'jinja_template_vars' was found in both NotebookApp and ServerApp. This is likely a recent change. This config will only be set in NotebookApp. Please check if you should also config these traits in ServerApp for your purpose.
+[W 2023-05-04 17:52:44.351 NotebookApp] 'allow_origin' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-05-04 17:52:44.351 NotebookApp] 'shutdown_no_activity_timeout' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[W 2023-05-04 17:52:44.351 NotebookApp] 'tornado_settings' has moved from NotebookApp to ServerApp. This config will be passed to ServerApp. Be sure to update your config before our next release.
+[I 2023-05-04 17:52:44.355 ServerApp] nbclassic | extension was successfully linked.
+[I 2023-05-04 17:52:44.356 ServerApp] Writing Jupyter server cookie secret to /home/jovyan/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2023-05-04 17:52:44.833 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-05-04 17:52:44.865 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-05-04 17:52:44.866 ServerApp] jupyter_offlinenotebook | extension was successfully loaded.
+[I 2023-05-04 17:52:44.866 ServerApp] jupyter_resource_usage | extension was successfully loaded.
+[I 2023-05-04 17:52:44.867 LabApp] JupyterLab extension loaded from /srv/conda/envs/notebook/lib/python3.10/site-packages/jupyterlab
+[I 2023-05-04 17:52:44.867 LabApp] JupyterLab application directory is /srv/conda/envs/notebook/share/jupyter/lab
+[I 2023-05-04 17:52:44.872 ServerApp] jupyterlab | extension was successfully loaded.
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                                                                           
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 2023-05-04 17:52:44.880 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-05-04 17:52:44.880 ServerApp] Will shut down after 600 seconds with no kernels or terminals.
+[I 2023-05-04 17:52:44.881 ServerApp] Serving notebooks from local directory: /home/jovyan
+[I 2023-05-04 17:52:44.881 ServerApp] Jupyter Server 1.23.6 is running at:
+[I 2023-05-04 17:52:44.881 ServerApp] http://jupyter-biancablima-2dpython-5ftest-2dtmqfqhlr:8888/user/biancablima-python_test-tmqfqhlr/lab?token=...
+[I 2023-05-04 17:52:44.881 ServerApp]  or http://127.0.0.1:8888/user/biancablima-python_test-tmqfqhlr/lab?token=...
+[I 2023-05-04 17:52:44.881 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2023-05-04 17:52:44.886 ServerApp] No web browser found: could not locate runnable browser.
+[I 2023-05-04 17:52:44.973 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 1.76ms
+[I 2023-05-04 17:52:47.686 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/?token=[secret] (94.60.25.158) 0.69ms
+[I 2023-05-04 17:52:54.151 LabApp] Build is up to date
+[I 2023-05-04 17:53:06.940 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 0.84ms
+[I 2023-05-04 17:54:27.796 ServerApp] Creating new file in 
+[I 2023-05-04 17:56:28.114 ServerApp] Saving file at /hello.py
+[I 2023-05-04 17:57:51.348 ServerApp] Kernel started: b728e0a9-18a0-4aa1-9aeb-d1d6467cafe4
+[I 2023-05-04 17:57:51.348 ServerApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 2023-05-04 17:57:51.348 ServerApp] Culling kernels even with connected clients
+[I 2023-05-04 17:57:52.315 ServerApp] Starting buffering for b728e0a9-18a0-4aa1-9aeb-d1d6467cafe4:23a86cc5-0f3a-4cfe-8b4c-5271dbcacf5d
+[I 2023-05-04 17:58:28.291 ServerApp] Saving file at /hello.py
+[I 2023-05-04 17:58:48.044 ServerApp] Saving file at /hello.py
+[I 2023-05-04 17:59:15.951 ServerApp] Creating new directory in 
+[W 2023-05-04 17:59:29.429 ServerApp] delete /Untitled Folder
+[I 2023-05-04 18:04:14.132 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 0.56ms
+[I 2023-05-04 18:05:51.636 ServerApp] Saving file at /hello.py
+[I 2023-05-04 18:11:46.501 ServerApp] Kernel restarted: b728e0a9-18a0-4aa1-9aeb-d1d6467cafe4
+[I 2023-05-04 18:13:01.958 ServerApp] New terminal with automatic name: 1
