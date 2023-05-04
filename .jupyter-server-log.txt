@@ -60,3 +60,47 @@ Please note that updating to Notebook 7 might break some of your extensions.
 [I 2023-05-04 18:05:51.636 ServerApp] Saving file at /hello.py
 [I 2023-05-04 18:11:46.501 ServerApp] Kernel restarted: b728e0a9-18a0-4aa1-9aeb-d1d6467cafe4
 [I 2023-05-04 18:13:01.958 ServerApp] New terminal with automatic name: 1
+[W 2023-05-04 18:21:51.350 ServerApp] Culling 'idle' kernel 'python3' (b728e0a9-18a0-4aa1-9aeb-d1d6467cafe4) with 4 connections due to 601 seconds of inactivity.
+[I 2023-05-04 18:21:51.351 ServerApp] Kernel shutdown: b728e0a9-18a0-4aa1-9aeb-d1d6467cafe4
+[I 2023-05-04 18:24:31.839 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 0.61ms
+[I 2023-05-04 18:27:20.416 ServerApp] Creating new directory in 
+[I 2023-05-04 18:27:52.184 ServerApp] Creating new file in /Quizz Lesson 1-4
+[I 2023-05-04 18:28:21.653 ServerApp] Kernel started: e3324584-af44-417c-bc0a-5a9b8e71259b
+[I 2023-05-04 18:35:15.764 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 0.66ms
+[W 2023-05-04 18:38:51.351 ServerApp] Culling 'idle' kernel 'python3' (e3324584-af44-417c-bc0a-5a9b8e71259b) with 3 connections due to 628 seconds of inactivity.
+[I 2023-05-04 18:38:51.352 ServerApp] Kernel shutdown: e3324584-af44-417c-bc0a-5a9b8e71259b
+[I 2023-05-04 18:46:30.917 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 0.64ms
+[I 2023-05-04 18:48:11.009 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 18:49:11.979 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 18:49:31.086 ServerApp] Kernel started: 531f7513-a142-4bc7-a2e7-d321d0af890c
+[I 2023-05-04 18:50:22.338 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 18:51:47.067 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 18:52:56.097 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 18:54:56.238 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 18:56:56.412 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 18:58:03.510 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 0.91ms
+[I 2023-05-04 18:58:56.587 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:00:56.738 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[W 2023-05-04 19:03:51.350 ServerApp] Culling 'idle' kernel 'python3' (531f7513-a142-4bc7-a2e7-d321d0af890c) with 4 connections due to 652 seconds of inactivity.
+[I 2023-05-04 19:03:51.350 ServerApp] Kernel shutdown: 531f7513-a142-4bc7-a2e7-d321d0af890c
+[I 2023-05-04 19:04:17.734 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:04:24.962 ServerApp] Kernel started: de98e71d-55c5-4dce-ae5f-f117e57a0601
+[I 2023-05-04 19:06:17.965 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:08:18.144 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:09:57.707 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:10:33.084 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:10:45.235 ServerApp] Kernel restarted: de98e71d-55c5-4dce-ae5f-f117e57a0601
+[I 2023-05-04 19:12:33.216 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:14:33.360 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:15:26.739 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 0.87ms
+[I 2023-05-04 19:16:33.515 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:18:11.810 ServerApp] Saving file at /Quizz Lesson 1-4/exercise.py
+[I 2023-05-04 19:18:22.312 ServerApp] Creating new file in /Quizz Lesson 1-4
+[W 2023-05-04 19:20:51.350 ServerApp] Culling 'idle' kernel 'python3' (de98e71d-55c5-4dce-ae5f-f117e57a0601) with 1 connections due to 601 seconds of inactivity.
+[I 2023-05-04 19:20:51.350 ServerApp] Kernel shutdown: de98e71d-55c5-4dce-ae5f-f117e57a0601
+[I 2023-05-04 19:25:46.547 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 0.60ms
+[I 2023-05-04 19:34:09.487 ServerApp] Saving file at /Quizz Lesson 1-4/ex3.py
+[I 2023-05-04 19:34:09.529 ServerApp] Saving file at /Quizz Lesson 1-4/exercise2.py
+[I 2023-05-04 19:34:17.768 ServerApp] Kernel started: 97c23662-fb17-4dfe-b948-7cf5ca1922e1
+[I 2023-05-04 19:35:50.857 ServerApp] 302 GET /user/biancablima-python_test-tmqfqhlr/ (10.2.6.252) 0.75ms
+[I 2023-05-04 19:36:09.651 ServerApp] Saving file at /Quizz Lesson 1-4/ex3.py
